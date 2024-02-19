@@ -39,7 +39,9 @@
     <a href="https://github.com/cp-alley/sharebnb-frontend"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://calley-sharebnb.netlify.app">View Demo</a>
+    <a href="https://www.loom.com/share/2c3e0b3fd3a84a339325e289853cc6d7?sid=9f3e2084-d4fd-4373-8627-0133a16c455d">Video Demo</a>
+    ·
+    <a href="https://calley-sharebnb.netlify.app">Live Demo</a>
     ·
     <a href="https://github.com/cp-alley/sharebnb-backend">Backend Repo</a>
     ·
